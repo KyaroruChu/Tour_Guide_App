@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tokyo Food Guide App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Tab titles -->
+    <string name="Tokyo_Map_Tab">Map</string>
+    <string name="Shinjuku_Tab">Shinjuku</string>
+    <string name="Harajuku_Tab">Harajuku</string>
+    <string name="Ginza_Tab">Ginza</string>
+
+</resources>
